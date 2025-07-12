@@ -6,5 +6,7 @@ Solution: Create a comprehensive smart pharmacy management platform that optimiz
 Tech Stack:
 
 Frontend: React.js
+
 Backend: Node.js/Express.js
+
 Database: MongoDB
